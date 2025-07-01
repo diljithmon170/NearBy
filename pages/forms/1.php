@@ -1,0 +1,1 @@
+<input type="text" name="Date" readonly = "readonly"  value="<?php echo date('d/m/y');?>"/>
